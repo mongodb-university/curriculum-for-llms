@@ -44,37 +44,3 @@ mdb-learn-link:
 
 13. By completing this Skill Badge, you'll know how to commit CRUD operations and modify queries to improve application performance. Let's get started!
 
----
-
-## Visuals
-
-1. Talking head
-2. Talking head w/ slides
-3. Slides
-4. Talking head w/ sidebar
-   - How to use specific operators to retrieve data efficiently
-   - How to apply sorting, limiting, and projection to modify results
-5. Talking head
-6. Talking head w/ sidebar
-   - insertOne()
-   - insertMany()
-7. Talking head w/ sidebar
-   - find()
-   - $in
-   - $eq
-   - Comparison operators
-   - Logical operators
-   - $elemMatch
-8. Talking head w/ sidebar
-   - updateOne()
-   - updateMany()
-   - $set
-   - $push
-   - upsert option
-9. Talking head w/ sidebar
-   - deleteOne()
-   - deleteMany()
-10. Talking head w/ icon
-11. Talking head
-12. Talking head w/ icon
-13. Talking head

@@ -1,5 +1,5 @@
 ---
-title: DM Skill 1: Relational to Doc Model Intro Video
+title: Relational to Doc Model Intro Video
 lesson_number: 0
 skill: Relational Model to Document Model
 kind: video_script

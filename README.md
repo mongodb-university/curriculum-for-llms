@@ -12,3 +12,20 @@ Structure
   - unit-name/
     - l0-intro-to-...md
     - l1-...md
+
+## Sync process
+
+A script `sync.ts` syncs the content of this repository to an S3 bucket and generates a `manifest.json` at the bucket root. The manifest maps each [learn.mongodb.com](https://learn.mongodb.com) URL to its corresponding file path, sourced from the `mdb-learn-link` field in each file's frontmatter (using `lesson` if present, otherwise `course`).
+
+The sync runs automatically via GitHub Actions on pushes to `main` (staging bucket) and `production` (production bucket). To run locally:
+
+```sh
+# dry run — writes output to dry-run/ instead of S3
+npm run sync-dryrun
+
+# sync to a specific bucket (defaults to stage bucket)
+npm run sync -- --bucket <bucket-name>
+
+# strip frontmatter from files before uploading
+npm run sync -- --strip-frontmatter
+```

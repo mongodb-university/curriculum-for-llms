@@ -40,4 +40,4 @@ mdb-learn-link:
 21. And we get no results. Looks like there aren't any words that start with p-zero!
 22. Given this functionality, you may be wondering how you should use these options to take advantage of fuzzy search in your application. We recommend starting with the defaults then fine-tuning them until you achieve the desired results.
 23. Nice work! In this video, you learned how to use the `fuzzy` option in your Atlas Search queries with the options `maxEdits`, `prefixLength`, and `maxExpansions`. These will help you generate relevant search results when your users make typos.
-24.** That's it for now. Just remember our searches aren't perfect, and thanks to Fuzzy Search they don't have to be!
+24. That's it for now. Just remember our searches aren't perfect, and thanks to Fuzzy Search they don't have to be!

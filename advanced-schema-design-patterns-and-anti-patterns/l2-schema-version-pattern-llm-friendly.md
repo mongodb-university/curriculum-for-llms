@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Schema Versioning Pattern"
+title: "Schema Versioning Pattern"
 lesson_number: 2
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

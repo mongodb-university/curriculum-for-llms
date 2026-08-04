@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 6, Lesson 3 - Schema Migrations"
+title: "Schema Migrations"
 lesson_number: 4
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 5 Lesson 4 - Unnecessary Indexes"
+title: "Unnecessary Indexes"
 lesson_number: 6
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

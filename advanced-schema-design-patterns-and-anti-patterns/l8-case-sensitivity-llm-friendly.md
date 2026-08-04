@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 5 Lesson 6 - Case-Sensitivity"
+title: "Case-Sensitivity"
 lesson_number: 8
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

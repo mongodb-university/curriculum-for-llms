@@ -1,5 +1,5 @@
 ---
-title: "Video Script: U3L3 - Approximation Pattern (v2)"
+title: "Approximation Pattern"
 lesson_number: 1
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

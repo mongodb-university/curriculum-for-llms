@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 5 Lesson 5 - Data Normalization"
+title: "Data Normalization"
 lesson_number: 7
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

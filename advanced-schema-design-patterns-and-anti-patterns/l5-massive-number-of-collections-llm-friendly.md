@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 5 Lesson 3 - Massive Number of Collections"
+title: "Massive Number of Collections"
 lesson_number: 5
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

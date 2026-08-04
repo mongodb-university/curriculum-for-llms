@@ -1,5 +1,5 @@
 ---
-title: "Video Script: Unit 6, Lesson 2 - Schema Evolution"
+title: "Schema Evolution"
 lesson_number: 3
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

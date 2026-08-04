@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "DM Skill 3: Advanced Schema Patterns and Antipatterns Intro Video"
-=======
 title: "Advanced Schema Patterns and Antipatterns Intro Video"
->>>>>>> 19afddd (Add .md files for Advanced Schema design patterns and antipatterns,)
 lesson_number: 0
 skill: advanced-schema-design-patterns-and-antipatterns
 kind: video_script

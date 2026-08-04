@@ -52,34 +52,3 @@ mdb-learn-link:
 16. If the number of collections continues to be a problem, updating the schema design can help reorganize your data and decrease the number of collections in your database. Sharding your database is also another potential solution.
 
 17. We hope you enjoyed this lesson. See you in the next one!
-
----
-
-## Visuals
-
-1. Talking head w/ icon
-2. Talking head
-3. Talking head w/ slides
-4. Talking head
-5. Slides
-6. Slides
-7. Talking head w/ sidebar
-   - Massive Number of Collections Anti-pattern
-8. Talking head w/ icon
-9. Talking head w/ icon
-10. Talking head w/ icon
-11. Talking head w/ slides
-12. Talking head w/ slides
-13. Slides
-14. Talking head w/ sidebar
-   - Massive Number of Collections Anti-pattern
-   - Recommended limits: 5,000 per M10 cluster
-   - 10,000 per M20/M30 cluster
-   - 10,000 per replica set
-   - 10,000 per shard
-15. Talking head w/ sidebar
-   - Drop or Archive unused collections
-16. Talking head w/ sidebar
-   - Update Schema Design
-   - Sharding
-17. Talking head

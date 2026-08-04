@@ -40,29 +40,3 @@ mdb-learn-link:
 11. Each lesson in this skill badge will introduce concepts through detailed videos and hands-on labs. These exercises ensure that by the end, you're well-equipped to understand the theory and apply what you've learned directly to your projects.
 
 12. At this point, you'll be ready to take our short assessment and demonstrate your knowledge. After passing the test, you will receive an official Credly badge to share on LinkedIn to show off your newly acquired knowledge and skills.
-
----
-
-## Visuals
-
-1. Talking head w/ icon
-2. Talking head w/ icon
-3. Slides
-4. Talking head w/ icon
-5. Talking head w/ sidebar
-   - Schema design patterns
-   - Approximation pattern
-6. Talking head w/ sidebar
-   - Schema versioning pattern
-7. Talking head w/ sidebar
-   - Schema evolution
-   - Schema migration
-8. Talking head w/ icon
-9. Talking head
-10. Talking head w/ sidebar
-   - Massive Number of Collections
-   - Unnecessary Indexes
-   - Data Normalization
-   - Case Sensitivity
-11. Talking head w/ icon
-12. Talking head w/ icon

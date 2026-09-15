@@ -1,31 +1,16 @@
 # MongoDB University LLM-Friendly Curriculum
 
-This repository is not intended for direct human consumption or as a primary learning resource. For a Human-friendly version of the content, please visit [MongoDB University](https://learn.mongodb.com).
+This repository is the flat public projection of approved MongoDB University curriculum content. It is not a primary learning experience; use [MongoDB University](https://learn.mongodb.com) for the human-facing learning product.
 
-Purpose
-- Contains MongoDB University content transformed into an LLM-friendly format for programmatic use.
-- Used to present course units, skill badges, and lessons in a structure optimized for automated processing and model ingestion.
+## Repository boundary
 
-Structure
-- Each unit / skill-badge / course has its own folder containing the relevant lesson files (Markdown).
-- Example layout:
-  - unit-name/
-    - l0-intro-to-...md
-    - l1-...md
+- Canonical content is created and corrected in `curriculum-content`.
+- `curriculum-for-llms-internal` creates validated, revision-pinned derived projections and records their provenance.
+- This repository receives only approved, mechanical public content projections.
+- Its intended steady state contains no authoring workflow, deployment workflow, private operational metadata, credentials, review records, or second package schema. The legacy public sync workflow is being removed separately and must not be extended.
 
-## Sync process
+Content folders contain the published Markdown projection. A small number of root guidance files, including [AGENTS.md](AGENTS.md), may explain this boundary but are not content-processing infrastructure.
 
-A script `sync.ts` syncs the content of this repository to an S3 bucket and generates a `manifest.json` at the bucket root. The manifest maps each [learn.mongodb.com](https://learn.mongodb.com) URL to its corresponding file path, sourced from the `mdb-learn-link` field in each file's frontmatter (using `lesson` if present, otherwise `course`).
+## Contributing
 
-The sync runs automatically via GitHub Actions on pushes to `main` (staging bucket) and `production` (production bucket). To run locally:
-
-```sh
-# dry run — writes output to dry-run/ instead of S3
-npm run sync-dryrun
-
-# sync to a specific bucket (defaults to stage bucket)
-npm run sync -- --bucket <bucket-name>
-
-# strip frontmatter from files before uploading
-npm run sync -- --strip-frontmatter
-```
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Use the public-content-projection template for generated content and the repository-boundary template for the rare documentation or security change.

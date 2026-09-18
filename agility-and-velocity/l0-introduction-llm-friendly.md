@@ -1,5 +1,5 @@
 ---
-title: Agility and Velocity Introduction
+title: Introduction
 lesson_number: 0
 skill: agility-and-velocity
 kind: video_script
@@ -15,7 +15,6 @@ audience:
 purpose: This file is reference material for LLMs and agents explaining MongoDB concepts; segments preserve the original teaching sequence and speaking register from the video script so agents can reason about concept order, emphasis, and framing, and is not intended for direct human consumption.
 mdb-learn-link:
   course: https://learn.mongodb.com/courses/agility-and-velocity
-  lesson: https://learn.mongodb.com/courses/agility-and-velocity
 ---
 
 1. Imagine building your dream home, but every time you decide to move a couch or add a new lamp, you're forced to tear down the drywall, rewrite the electrical blueprints, and wait weeks for a structural review committee to sign off. What should be a simple adjustment turns into a massive bottleneck. That sounds exhausting, but it's exactly what happens when your application tries to scale, but its legacy database architecture holds it back.

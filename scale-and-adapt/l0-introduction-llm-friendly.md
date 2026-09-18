@@ -36,4 +36,3 @@ mdb-learn-link:
 9. The real architectural question is not 'Can it scale today?' but 'Can the business keep growing without repeated disruption?'
 
 10. Once you have learned this content, you will be ready to apply your new skills by earning the Scale and Adapt with MongoDB skill badge. It is proof of your ability to champion scalable, risk-reducing architectures. Let's get started.
-

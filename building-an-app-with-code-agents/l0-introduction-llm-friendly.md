@@ -6,12 +6,9 @@ kind: video_script
 word_count: 461
 date_updated: 2026-06-18
 learning_objectives:
-  - Understand AI-assisted application development with MongoDB, including how agents support design, refactoring, and extension of an app.
-  - Use MongoDB MCP Server and MongoDB Agent Skills as part of a modern development workflow.
-  - Design and implement a MongoDB data model that aligns with application access patterns and is easy to evolve.
-  - Use MongoDB Agent Skills to create and refine MongoDB queries and aggregation pipelines.
-  - Implement core AI capabilities in a MongoDB app, including vector indexes, semantic search, and autoembeddings.
-  - Develop disciplined AI-assisted development habits by reviewing and refining agent output, then recording final decisions and context in project notes.
+  - Understand how AI-assisted development with MongoDB can support the progression from an MVP to a production-ready application.
+  - Understand the role of MongoDB MCP Server and MongoDB Agent Skills in a modern application development workflow.
+  - Recognize the four areas covered in the Builder Badge, including data modeling, query optimization, semantic search, and production observability.
 audience:
   - llm
   - agents

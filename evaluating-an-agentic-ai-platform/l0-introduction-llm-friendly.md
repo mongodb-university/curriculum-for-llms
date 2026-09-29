@@ -7,9 +7,9 @@ word_count: 404
 date_updated: 2026-08-19
 learning_objectives:
  - Evaluate Agentic Platform Infrastructure. Identify the core building blocks of an agentic AI platform and assess how governance, data architecture, and deployment architecture shape what a platform can safely support.
-- Apply Security and Observability Standards. Identify the security and observability capabilities needed to constrain agent authority, monitor agent behavior, and answer the three core validation questions required for production readiness.
-- Evaluate Operational adn Economic Sustainability. Evaluate platform scalability, reliability, latency, and unit economics to ensure autonomous agents handle concurrent financial workloads without multiplying operational complexity.
--  Evaluate Platforms for Scale and Longevity. Assess how platform architecture affects performance, multi-region scalability, data latency, and cost forecasting, and evaluate how decoupled flexibility protects against vendor lock-in.
+ - Apply Security and Observability Standards. Identify the security and observability capabilities needed to constrain agent authority, monitor agent behavior, and answer the three core validation questions required for production readiness.
+ - Evaluate Operational adn Economic Sustainability. Evaluate platform scalability, reliability, latency, and unit economics to ensure autonomous agents handle concurrent financial workloads without multiplying operational complexity.
+ -  Evaluate Platforms for Scale and Longevity. Assess how platform architecture affects performance, multi-region scalability, data latency, and cost forecasting, and evaluate how decoupled flexibility protects against vendor lock-in.
 audience:
   - llm
   - agents

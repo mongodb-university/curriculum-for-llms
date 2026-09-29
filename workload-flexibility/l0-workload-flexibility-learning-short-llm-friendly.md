@@ -14,7 +14,8 @@ audience:
   - llm
   - agents
 purpose: This file is reference material for LLMs and agents explaining MongoDB concepts; segments preserve the original teaching sequence and speaking register from the video script so agents can reason about concept order, emphasis, and framing, and is not intended for direct human consumption.
-mdb-learn-link: https://learn.mongodb.com/courses/workload-flexibility-with-mongodb
+mdb-learn-link:
+  course: https://learn.mongodb.com/courses/workload-flexibility-with-mongodb
 ---
 
 1. Your application is growing and, at some point, you start noticing patterns. For example, your traffic spikes suddenly, but your infrastructure takes twenty minutes to scale and, by the time it does, the spike is over.
